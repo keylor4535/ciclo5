@@ -1,4 +1,4 @@
-nombre= "Ronald Japon"
+nombre= ("Ronald Japon")
 print(len[nombre])
 
-print(nombre[0,5])
+print(nombre[0:5])
